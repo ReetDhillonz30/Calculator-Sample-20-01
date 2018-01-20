@@ -40,5 +40,5 @@ After calculating answer show answer in layout using setText() function on answe
 
 by using above line entered text in editText will be cleared. Use this in onclick function of CLR button.
 
-:+1: Best of luck! Happy Coding :slight_smile:
+:+1: Best of luck! Happy Coding :simple_smile:
 
