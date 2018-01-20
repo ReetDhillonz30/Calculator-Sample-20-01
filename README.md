@@ -36,7 +36,9 @@ After calculating answer show answer in layout using setText() function on answe
 
 ### For clearing the edittext use below code
 
-`edittext.setText("");`
+`edittext.setText("");` editext will be the name of the EditText object in java for which you want to clear text.
 
 by using above line entered text in editText will be cleared. Use this in onclick function of CLR button.
+
+:+1: Best of luck! Happy Coding :slight_smile:
 
