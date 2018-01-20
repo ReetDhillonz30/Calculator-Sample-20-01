@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="calculator_heading">ਕੈਲਕੁਲੇਟਰ</string>
+
+    <string name="number_one">ਪਹਿਲਾ ਨੰਬਰ</string>
+
+    <string name="number_two">ਦੂਜਾ ਨੰਬਰ</string>
+
+    <string name="answer_txt">ਜਵਾਬ</string>
+</resources>
